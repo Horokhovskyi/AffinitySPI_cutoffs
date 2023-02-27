@@ -3,10 +3,14 @@ Process public MHC-I immunopeptidome data to infer the distribution of binding a
 
 ## Data sources
 IEDB - download and unzip the folder
-`https://www.iedb.org/downloader.php?file_name=doc/mhc_ligand_full_single_file.zip`
+```
+https://www.iedb.org/downloader.php?file_name=doc/mhc_ligand_full_single_file.zip
+```
 
 SysteMHC Atlas
-`https://systemhcatlas.org/`
+```
+https://systemhcatlas.org/`
+```
 
 Human HLA Atlas
 ```
