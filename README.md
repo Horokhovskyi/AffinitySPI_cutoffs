@@ -22,9 +22,9 @@ https://github.com/CaronLab/MHCIatlas/blob/master/inst/extdata/HumanHLAatlas_rep
 ```
 
 ## Options
-`netMHCpan` - local path to netMHCpan-4.1
-`alleles` - if `TRUE`, use all aleleles, otherwise - a character vector with allele names
-`Use_strictly_monoallelic` - if `TRUE`, use only IEDB monoallelic data, otherwise all data will be used
-`min_peptides_per_allele.length` - minimal number of peptide sequences per allele and peptide length to estimate the cutoffs
-`n_cores` - number of CPUs to use
+`netMHCpan` - local path to netMHCpan-4.1\
+`alleles` - if `TRUE`, use all aleleles, otherwise - a character vector with allele names\
+`Use_strictly_monoallelic` - if `TRUE`, use only IEDB monoallelic data, otherwise all data will be used\
+`min_peptides_per_allele.length` - minimal number of peptide sequences per allele and peptide length to estimate the cutoffs\
+`n_cores` - number of CPUs to use\
 
